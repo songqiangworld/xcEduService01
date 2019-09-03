@@ -1,5 +1,6 @@
 server:
   port: 8088 #服务端口
+  max-http-header-size: 10000000
 
 spring:
   application:
